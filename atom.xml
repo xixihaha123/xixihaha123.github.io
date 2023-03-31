@@ -2,14 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://xixihaha123.github.io</id>
     <title>FY_Sun</title>
-    <updated>2022-12-08T03:08:05.242Z</updated>
+    <updated>2023-03-31T07:30:51.781Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://xixihaha123.github.io"/>
     <link rel="self" href="https://xixihaha123.github.io/atom.xml"/>
     <subtitle>常常喜乐 不住祷告 凡事谢恩</subtitle>
     <logo>https://xixihaha123.github.io/images/avatar.png</logo>
     <icon>https://xixihaha123.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2022, FY_Sun</rights>
+    <rights>All rights reserved 2023, FY_Sun</rights>
+    <entry>
+        <title type="html"><![CDATA[【灵修214-244】2023年Q1 使徒行传+保罗书信]]></title>
+        <id>https://xixihaha123.github.io/ling-xiu-214-/</id>
+        <link href="https://xixihaha123.github.io/ling-xiu-214-/">
+        </link>
+        <updated>2023-03-31T07:19:20.000Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【灵修200-213】马可福音1-7章]]></title>
         <id>https://xixihaha123.github.io/ling-xiu-194-ma-ke-fu-yin-1-7-zhang/</id>
@@ -72,12 +79,5 @@
         <link href="https://xixihaha123.github.io/du-shu-bi-ji-2-lesslessyan-yuan-de-zi-wo-xiu-yang-greatergreater-guan-zhu-nei-xin/">
         </link>
         <updated>2022-02-22T00:57:15.000Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【学习】情绪管理学习回顾]]></title>
-        <id>https://xixihaha123.github.io/xue-xi-qing-xu-guan-li-xue-xi-hui-gu/</id>
-        <link href="https://xixihaha123.github.io/xue-xi-qing-xu-guan-li-xue-xi-hui-gu/">
-        </link>
-        <updated>2022-02-14T05:17:34.000Z</updated>
     </entry>
 </feed>
